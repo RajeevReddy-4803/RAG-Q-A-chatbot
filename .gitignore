@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+env/
+venv/
+ENV/
+
+# Model & FAISS index files
+*.pkl
+*.faiss
+*.npy
+
+# VS Code settings
+.vscode/
+
+#
+# Streamlit cache
+.streamlit/
+
+# Python build
+build/
+dist/
+*.egg-info/
+
+# Data files (if large, optional)
+.csv
