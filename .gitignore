@@ -26,5 +26,6 @@ build/
 dist/
 *.egg-info/
 
-# Data files (if large, optional)
-.csv
+# Ignore all CSV files
+*.csv
+
